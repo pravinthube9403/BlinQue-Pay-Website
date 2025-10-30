@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Extra-Bold';
+    src: url('../font/Fontspring-DEMO-proximanova-extrabold.otf');
+}
+
+@font-face {
+    font-family: 'Bold';
+    src: url('../font/Fontspring-DEMO-proximanovaexcn-bold.otf');
+}
+
+@font-face {
+    font-family: 'Regular';
+    src: url('../font/Fontspring-DEMO-proximanova-regular.otf');
+}
